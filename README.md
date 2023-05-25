@@ -1,9 +1,9 @@
 # Match3Game
 * A match3 candy-crush like game.
-You can drag icons with limited number of moves. When rows matched with the same type of icons, you will get points.
+You can drag icons with limited number of moves. When rows are matched with the same type of icons, you will get points.
 You can access the unity project file from https://drive.google.com/drive/folders/1LqXmxN_G0-LUEramZX6Tbxz3YrYD1Vg8?usp=sharing.
 
-> You can play the first 10 levels, whenever a new highscore point is achieved a "Congrats" animation pops up. Also there are sounds of each move and action.
+> You can play the first 10 levels, whenever a new high score point is achieved a "Congrats" animation pops up. Also, there are sounds of each move and action. You can not play the current level unless you play the previous level. Level 1 is automatically unlocked. Each item type have different points. Matched rows are immovable.
 
 ## Images
 
